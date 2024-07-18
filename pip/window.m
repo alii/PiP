@@ -6,6 +6,7 @@
 //  Copyright © 2017 boggyb. All rights reserved.
 //
 
+#import <CoreImage/CoreImage.h>
 #import "cgs.h"
 #import "common.h"
 #import "window.h"
